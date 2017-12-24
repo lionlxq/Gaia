@@ -2622,7 +2622,8 @@ a,
 }
 
 .image-clients {
-  width: 90px;
+  width: 250px;
+  height: 300px;
   margin: 0 auto;
   margin-right: 8px;
   margin-left: 8px;
